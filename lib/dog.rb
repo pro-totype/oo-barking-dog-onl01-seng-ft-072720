@@ -1,7 +1,7 @@
 # Your code goes here!
 class Dog
-  def name(named)
-    @the_name = named
+  def name=(dog_name)
+    
   end
     
   def bark
